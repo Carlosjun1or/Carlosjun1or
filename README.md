@@ -15,10 +15,9 @@
 🎓 Desenvolvimento de Software Multiplataforma — **FATEC Praia Grande**  
 🎓 Análise e Desenvolvimento de Sistemas — **Universidade São Judas**
 
-💻 Estudante de tecnologia focado em **desenvolvimento de software**  
-🌐 Interesse em **desenvolvimento web, backend e infraestrutura de TI**  
-📚 Sempre aprendendo novas tecnologias  
-🚀 Buscando evoluir e desenvolver projetos cada vez mais completos
+💻 Estudante de tecnologia focado em **Desenvolvimento de Software**  
+🌐 Interesse em **Desenvolvimento Web, Backend e Infraestrutura de TI**  
+📚 Sempre aprendendo novas tecnologias, buscando evoluir e desenvolver projetos cada vez mais completos
 
 ---
 
@@ -98,7 +97,7 @@ Funcionalidades:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosjun1or&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Carlosjun1or&theme=tokyonight"/>
 </p>
 
 ---
@@ -106,7 +105,7 @@ Funcionalidades:
 ## 🏆 Conquistas
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Carlosjun1or&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Carlosjun1or&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -114,7 +113,7 @@ Funcionalidades:
 ## 👀 Visitantes
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Carlosjun1or&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Carlosjun1or&style=for-the-badge&color=blue"/>
 </p>
 
 ---
