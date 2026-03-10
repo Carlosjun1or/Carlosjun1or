@@ -92,12 +92,15 @@ Funcionalidades:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlosjun1or&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosjun1or&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Carlosjun1or&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Carlosjun1or&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosjun1or&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Carlosjun1or&theme=tokyonight" />
 </p>
 
 ---
@@ -105,7 +108,7 @@ Funcionalidades:
 ## 🏆 Conquistas
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Carlosjun1or&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Carlosjun1or&theme=tokyonight" />
 </p>
 
 ---
@@ -113,7 +116,7 @@ Funcionalidades:
 ## 👀 Visitantes
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Carlosjun1or&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Carlosjun1or&style=for-the-badge" />
 </p>
 
 ---
