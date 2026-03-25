@@ -5,31 +5,18 @@
 
 <!-- Animação de digitação -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Olá+👋;Carlos+Roberto+Dantas+Junior;Desenvolvedor+em+Formação;Estudante+de+Tecnologia;Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Olá+👋;Sou+o+Carlos;Desenvolvedor+em+Formação;Estudante+de+Tecnologia;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 
 ## 👨‍💻 Sobre mim
 
-🎓 Desenvolvimento de Software Multiplataforma — **FATEC Praia Grande**  |  🎓 Análise e Desenvolvimento de Sistemas — **Universidade São Judas**
+-🎓 Desenvolvimento de Software Multiplataforma — **FATEC Praia Grande**  
+-🎓 Análise e Desenvolvimento de Sistemas — **Universidade São Judas**
 
-💻 Estudante de tecnologia focado em **Desenvolvimento de Software e Sistemas** 
-🌐 Interesse em **Desenvolvimento Web, Backend e Infraestrutura de TI**  
+💻 Estudante de tecnologia focado em **Desenvolvimento de Software e Sistemas** com interesse em **Desenvolvimento Web, Backend e Infraestrutura de TI**  
 📚 Sempre aprendendo novas tecnologias, buscando evoluir e desenvolver projetos cada vez mais completos
 
----
-
-## 🚀 Atualmente estudando
-
-- C++
-- Java
-- PHP
-- Estruturas de Dados
-- Desenvolvimento Web
-- Backend
-- Banco de Dados
-
----
 
 ## 🛠️ Tecnologias
 
@@ -61,7 +48,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 📂 Projetos Principais
 
@@ -83,7 +69,6 @@ Funcionalidades:
 - Alteração de status das consultas  
 - Painel administrativo  
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -103,7 +88,7 @@ onerror="this.style.display='none'; document.getElementById('statsMsg').style.di
 </p>
 
 <p id="statsMsg" align="center" style="display:none;">
-⚠️ Não foi possível carregar as estatísticas do GitHub no momento.
+⚠️ Não foi possível carregar todas as estatísticas do GitHub no momento.
 Tente atualizar a página mais tarde.
 </p>
 
@@ -129,7 +114,6 @@ src="https://komarev.com/ghpvc/?username=Carlosjun1or&style=for-the-badge&color=
 />
 </p>
 
----
 
 ## 🌎 Conecte-se comigo
 
@@ -139,7 +123,6 @@ src="https://komarev.com/ghpvc/?username=Carlosjun1or&style=for-the-badge&color=
   <a href="https://www.linkedin.com/in/carlosrobertodantasjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
 
 <p align="center">
 ⭐ Obrigado por visitar meu perfil!
