@@ -48,28 +48,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-## 📂 Projetos Principais
-
-### 🦷 Sistema para Clínica Odontológica
-
-Tecnologias utilizadas:
-
-- React
-- Node.js
-- Express
-- MySQL
-- Autenticação JWT
-
-Funcionalidades:
-
-- Cadastro de pacientes  
-- Cadastro de profissionais  
-- Sistema de agendamento  
-- Alteração de status das consultas  
-- Painel administrativo  
-
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
