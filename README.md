@@ -10,18 +10,22 @@
 
 **🇧🇷 PT**
 
-Estudante de duas graduações simultâneas em tecnologia — Desenvolvimento de Software Multiplataforma na **FATEC Praia Grande** e Análise e Desenvolvimento de Sistemas na **Universidade São Judas Tadeu**. <br>
-Meu foco está em **desenvolvimento backend e banco de dados**, com experiência prática em Java, Oracle SQL, PL/SQL e Oracle APEX. Já trabalhei com modelagem relacional, herança objeto-relacional no Oracle e integração com APIs externas em PHP. <br>
-Tenho base em frontend (HTML, CSS, JavaScript, React), o que me permite entender o ecossistema completo mesmo atuando no lado servidor. Inglês avançado certificado pela **CNA (2022)**. <br>
+Estudante de duas graduações simultâneas em tecnologia - ```Desenvolvimento de Software Multiplataforma``` na **FATEC Praia Grande** e ```Análise e Desenvolvimento de Sistemas``` na **Universidade São Judas Tadeu**. <br>
+Meu foco está em **Desenvolvimento Backend e Banco de Dados**, com experiência prática em ```Java, Oracle SQL, PL/SQL e Oracle APEX```. <br>
+Já trabalhei com modelagem relacional, herança objeto-relacional no Oracle e integração com APIs externas em PHP. <br>
+Tenho base em ```Frontend(HTML, CSS, JavaScript, React)```, o que me permite entender o ecossistema completo mesmo atuando no lado servidor. <br>
+```Inglês Avançado``` certificado pela **CNA (2022)**. <br>
 📬 Aberto a oportunidades de estágio em backend ou banco de dados - presencial, híbrido ou remoto.
 
 <br>
 
 **🇺🇸 EN**
 
-I'm a student pursuing two technology degrees simultaneously — Software Development at **FATEC Praia Grande** and Systems Analysis at **Universidade São Judas Tadeu**.<br>
-My focus is on **backend development and databases**, with hands-on experience in Java, Oracle SQL, PL/SQL, and Oracle APEX. I've worked with relational modeling, object-relational inheritance in Oracle, and external API integration using PHP. <br>
-I also have a frontend foundation (HTML, CSS, JavaScript, React), which gives me a full-stack perspective while working server-side. Advanced English certified by **CNA (2022)**. <br>
+I'm a student pursuing two technology degrees simultaneously — ```Software Development``` at **FATEC Praia Grande** and ```Systems Analysis``` at **Universidade São Judas Tadeu**.<br>
+My focus is on **Backend Development and Databases**, with hands-on experience in ```Java, Oracle SQL, PL/SQL, and Oracle APEX```. <br>
+I've worked with relational modeling, object-relational inheritance in Oracle, and external API integration using PHP. <br>
+I also have a ```Frontend Foundation(HTML, CSS, JavaScript, React)```, which gives me a full-stack perspective while working server-side. <br>
+```Advanced English``` certified by **CNA (2022)**. <br>
 📬 Open to internship opportunities in backend or database development - on-site, hybrid, or remote.
 
 <br>
